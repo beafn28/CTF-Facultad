@@ -3,7 +3,7 @@
 ¡Bienvenidos a CTF-Facultad! 🎉 Este es un CTF diseñado para todos los apasionados de la ciberseguridad, donde WordPress, esteganografía, escalada de privilegios y cron jobs serán los protagonistas. Prepárate para resolver una serie de retos que pondrán a prueba tus habilidades y creatividad. ¡Será un reto desafiante, pero las recompensas valdrán la pena! 😎
 ## ¿De qué trata CTF-Facultad? 🤔
 
-CTF-Facultad es un desafío estilo CTF (Capture the Flag) donde tendrás que resolver cifrados, descubrir vulnerabilidades en WordPress, y usar técnicas avanzadas como fuzzing, escalada de privilegios y manipulación de cron jobs. Cada pista te acercará un paso más a la meta. 💡
+CTF-Facultad es un desafío estilo CTF (Capture the Flag) donde tendrás que descubrir vulnerabilidades en WordPress, y usar técnicas avanzadas como fuzzing, escalada de privilegios y manipulación de cron jobs. Cada pista te acercará un paso más a la meta. 💡
 
 ### ¿Por dónde empiezo? 🛠️
 
