@@ -9,7 +9,7 @@ CTF-Facultad es un desafío estilo CTF (Capture the Flag) donde tendrás que des
 
 1. **Descarga el desafío:** Puedes obtener el CTF directamente desde el siguiente enlace:
 
-   [Descargar Facultad](https://thehackerslabs.com/facultad/)
+   [Descargar Facultad](https://labs.thehackerslabs.com/machine/36)
 
 2. **Comienza tu aventura:** Abre el desafío y ¡empieza a resolverlo! Recuerda, cada detalle cuenta, así que presta mucha atención a las pistas. 🕵️‍♂
 
